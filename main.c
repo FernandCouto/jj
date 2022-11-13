@@ -8,5 +8,7 @@ int main(){
 
 	iniciarJogo();
 
+printf("jogo acaba aqui");
+    
 	return 0;
 }
