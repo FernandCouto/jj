@@ -2,6 +2,8 @@
 
 int main(){
 
+    printf("que comecem ps jogos");
+
 	setlocale(LC_ALL, "");
 
 	telaInicial();
